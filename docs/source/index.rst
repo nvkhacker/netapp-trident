@@ -8,3 +8,5 @@ https://nvk0x.github.io
    :caption: Contents:
 
    draft/OIP-3
+   kubernetes/operations/tasks/backends/anf.rst
+   kubernetes/operations/tasks/backends/anf
